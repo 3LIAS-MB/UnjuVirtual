@@ -1,0 +1,130 @@
+[33mcommit d411176f7073b7b89e992b69ebe92bac84c7f4d2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: EliDev <eliasss.mb@gmail.com>
+Date:   Tue Oct 3 02:22:09 2023 -0300
+
+    Commit de elias3
+
+[33mcommit da23a8d574db6e834be1e314aa0b4c76004a90d1[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: EliDev <eliasss.mb@gmail.com>
+Date:   Tue Oct 3 02:11:05 2023 -0300
+
+    Commit de elias_
+
+[33mcommit 8af6193fb4e8b92d4732d39bd0f227caed07d8dc[m
+Author: EliDev <eliasss.mb@gmail.com>
+Date:   Tue Oct 3 02:07:00 2023 -0300
+
+    Commit de elias
+
+[33mcommit 6ec257a457977a68d40b6367e26d1cec6ad1b32b[m
+Merge: 8657afa 604be0f
+Author: Alexxe <Alexxe@fi.unju.edu.ar>
+Date:   Fri Sep 8 22:59:11 2023 -0300
+
+    Merge pull request #5 from AlexUnju/testing
+    
+    update index html
+
+[33mcommit 604be0ffb2d0e300fdfba2758f1cd4850a8225be[m
+Author: Alexxe <Alexxe@fi.unju.edu.ar>
+Date:   Fri Sep 8 22:52:19 2023 -0300
+
+    update index html
+    
+    update index html
+    
+    Co-Authored-By: Alexxe <Alexxe@fi.unju.edu.ar>
+    Co-Authored-By: Alexxe <110248582+stxgho@users.noreply.github.com>
+
+[33mcommit 8657afa14245a92b790ec6d1fd4305a420a8efdc[m
+Merge: 56a69fc 6482278
+Author: Alexxe <Alexxe@fi.unju.edu.ar>
+Date:   Fri Sep 8 22:48:10 2023 -0300
+
+    Merge pull request #4 from AlexUnju/testing
+    
+    Testing
+
+[33mcommit 64822789d591220e2ddaff55261c406a8e3f109b[m
+Author: Alexxe <Alexxe@fi.unju.edu.ar>
+Date:   Fri Sep 8 22:47:19 2023 -0300
+
+    Update index html
+    
+    eliminando espacios del index.html
+    
+    Co-Authored-By: Alexxe <Alexxe@fi.unju.edu.ar>
+
+[33mcommit 10401ffec60bbb87f472542b2dc9336ea5554e99[m
+Author: Alexxe <Alexxe@fi.unju.edu.ar>
+Date:   Fri Sep 8 22:44:42 2023 -0300
+
+    change index
+    
+    elimando espacios en el index.html
+
+[33mcommit 56a69fc28db9ab607e1093592431e7b1f61237ff[m
+Merge: e81cd3a e777605
+Author: Alexxe <Alexxe@fi.unju.edu.ar>
+Date:   Fri Sep 8 22:37:51 2023 -0300
+
+    Merge pull request #3 from AlexUnju/testing
+    
+    Testing
+
+[33mcommit e777605e1b9be41923da7416f8f788a7caec3aa1[m
+Author: AlexxeUnju <Alexxe@fi.unju.edu.ar>
+Date:   Fri Sep 8 22:33:08 2023 -0300
+
+    Co-authored-by: AlexUnju Alexxe@fi.unju.edu.ar
+
+[33mcommit 247897f519ec79901c399c35ff582e43a8518c41[m
+Author: AlexxeUnju <Alexxe@fi.unju.edu.ar>
+Date:   Fri Sep 8 22:27:44 2023 -0300
+
+    Co-authored-by: AlexUnju alexxe@fi.unju.edu.ar
+
+[33mcommit 841971933a75fe8fadc8daae2f0a4e2be9b599da[m
+Author: AlexxeUnju <Alexxe@fi.unju.edu.ar>
+Date:   Fri Sep 8 22:24:52 2023 -0300
+
+    cuarto commit
+
+[33mcommit f8a35542f646d91f97d39ad1e09d8343f837c150[m
+Author: AlexxeUnju <Alexxe@fi.unju.edu.ar>
+Date:   Fri Sep 8 22:22:36 2023 -0300
+
+    tercer commit
+
+[33mcommit e231df384462fa135fa929bbb8afe2d628905656[m
+Author: AlexxeUnju <Alexxe@fi.unju.edu.ar>
+Date:   Fri Sep 8 22:20:29 2023 -0300
+
+    tercer commit
+
+[33mcommit e81cd3acdb87bcc9db7b3b43c7506ca0c674534d[m
+Merge: 367a07f 197413a
+Author: Alexxe <Alexxe@fi.unju.edu.ar>
+Date:   Fri Sep 8 22:17:37 2023 -0300
+
+    Merge pull request #2 from AlexUnju/testing
+    
+    segundo commit
+
+[33mcommit 197413abe27b5e345a1cc07f6c5626711c1f18bb[m
+Author: AlexxeUnju <Alexxe@fi.unju.edu.ar>
+Date:   Fri Sep 8 22:11:15 2023 -0300
+
+    segundo commit
+
+[33mcommit 367a07f639033233fdff69db4252534569ebe31c[m
+Author: Alexxe <142057928+AlexxeUnju@users.noreply.github.com>
+Date:   Fri Aug 25 21:39:25 2023 -0300
+
+    Create README.md
+
+[33mcommit a57bd4f6e773e569cced09f85f2ad08e4abaf907[m
+Author: AlexxeUnju <Alexxe@fi.unju.edu.ar>
+Date:   Fri Aug 25 21:38:36 2023 -0300
+
+    primer-commit
